@@ -36,7 +36,7 @@ This is a movie ticket booking site with create/read/update/delete functionality
 ### Diagram
 
 1. 1st plan
-<img src="src/img/diagram.jpg" width="550px" />
+<img src="src/img/diagram.png" width="550px" />
 
 <!-- App has NavBar and BubbleTeaControl and Footer components comprehensively. BubbleTea control is a global component for BubbleTeaList, NewBubbleTeaForm and BubbleTeaDetail components. Those children components could connect via their parent control.  -->
 
