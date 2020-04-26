@@ -18,7 +18,7 @@ npm install bootstrap -->
 
 This is a movie ticket booking site with create/read/update/delete functionality. A desirable user would be a administrator or employee of movie theater.
 
-1. A user is able to receive movie data from movie API.
+1. A user is able to receive movie data from movie API. When it is in progress or failed, it displays "Loading...". 
 2. A user is able to choose employee mode in the first web page.
 3. A user is able to create new movie in the system and that is added to a movie list.
 4. A user is able to see all movies list in the main page.
